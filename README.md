@@ -11,7 +11,6 @@ A simple **To-Do REST API** built with **FastAPI**, **SQLAlchemy**, and **JWT au
 - Each user can only access their tasks
 - Swagger UI API docs
 - SQLite (default) / PostgreSQL support
-- Unit tests with pytest
 
 ---
 
